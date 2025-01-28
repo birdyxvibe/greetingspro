@@ -1,0 +1,13 @@
+name: GreetingsPro
+version: '1.0-SNAPSHOT'
+main: me.birdy.greetingsPro.GreetingsPro
+api-version: '1.21'
+commands:
+  greetings-reload:
+    description: Reload Greetings from the Configuration Files
+  greetings:
+    description: Open the Greetings GUI Menu
+  greetings-give:
+    description: Give a user a greeting
+    permission: greetingsPro.give
+    permission-message: You do not have permission to use this command.

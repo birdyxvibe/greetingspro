@@ -1,0 +1,4 @@
+default: "&7%player%"
+greetings:
+  1: "&x&7&6&B&D&F&F%player% has joined us!"
+  2: "&x&E&C&E&5&9&3%player% rolled up!"
